@@ -1,0 +1,19 @@
+---
+title: "R-python"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+```{python}
+x = 5
+y = 13
+while x<y:
+  print (x)
+  x =x+1
+```
